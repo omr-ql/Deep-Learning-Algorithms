@@ -10,4 +10,4 @@
   - RNNs are A type of neural network designed for sequential data, where connections between nodes form cycles. It is well-suited for tasks like time series prediction, natural language processing, and speech recognition, as it can capture temporal dependencies.
 
 - **Self-Organizing Map (SOM)**
- - SOM is A type of unsupervised learning algorithm that uses neural networks to map high-dimensional data into lower-dimensional (typically 2D) grids. As it preserves the topological structure of the data, SOM is often used for clustering, data visualization, and dimensionality reduction. It helps identify patterns, similarities, and clusters within complex data sets.
+  - SOM is A type of unsupervised learning algorithm that uses neural networks to map high-dimensional data into lower-dimensional (typically 2D) grids. As it preserves the topological structure of the data, SOM is often used for clustering, data visualization, and dimensionality reduction. It helps identify patterns, similarities, and clusters within complex data sets.
